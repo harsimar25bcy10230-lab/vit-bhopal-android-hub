@@ -51,9 +51,3 @@ Deployed and auto-updated via **Vercel** on every push to the `main` branch.
 
 **Live URL:** https://vit-bhopal-android-hub.vercel.app/
 
-## Contact
-- Email: androidclub@vitbhopal.ac.in  
-- Instagram: [@androidclubvitb](https://instagram.com/androidclubvitb)  
-- LinkedIn: [Android Club VIT Bhopal](https://linkedin.com/company/androidclubvitb)
-
-Made with ❤️ by the Android Club Core Team – 2025
