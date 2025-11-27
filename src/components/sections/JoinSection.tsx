@@ -118,7 +118,7 @@ const JoinSection = () => {
                   Applications are reviewed on a rolling basis
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  Open to all VIT Bhopal students • No coding test required
+                  Open to all VIT Bhopal students • Step 1: Application Step 2: Complete Task Round Step 3: Interview
                 </p>
               </div>
             </div>
