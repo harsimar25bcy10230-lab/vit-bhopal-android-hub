@@ -6,14 +6,14 @@ const ContactSection = () => {
     {
       name: "Instagram",
       icon: Instagram,
-      url: "https://instagram.com/androidclubvitb",
+      url: "https://www.instagram.com/androidclub.vitb/",
       color: "from-pink-500 to-orange-500",
       handle: "@androidclubvitb",
     },
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://linkedin.com/company/androidclubvitb",
+      url: "https://www.linkedin.com/company/android-club-vit-bhopal/",
       color: "from-blue-600 to-blue-400",
       handle: "/company/androidclubvitb",
     },
